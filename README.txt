@@ -60,3 +60,4 @@ http://wiki.civicrm.org/confluence/display/CRMDOC/Github+for+CiviCRM
 
 Report all issues to CiviCRM via JIRA:
 http://issues.civicrm.org
+Trying stuff
