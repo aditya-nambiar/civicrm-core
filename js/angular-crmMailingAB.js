@@ -227,6 +227,7 @@
                       "body_text": scope.mailA.body
 
                   });
+
                   console.log("Truth "+ scope.whatnext)
 
                   if(scope.whatnext=="3"){
@@ -240,7 +241,6 @@
                       scope.mailB.body=scope.mailA.body;
 
                   }
-                  
 
                   scope.save({
                       "sequential": 1,
@@ -249,13 +249,10 @@
                       "created_id": "2",
                       "from_email": scope.mailB.fromEmail,
                       "body_text": scope.mailB.body
-
                   });
-
               });
           }
         };
-
     });
 
 
